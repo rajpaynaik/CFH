@@ -6,7 +6,4 @@ public class index {
 		// TODO Auto-generated method stub
 System.out.println("javaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 System.out.println("javaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-System.out.println("javaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-	}
-
-}
+	}}
